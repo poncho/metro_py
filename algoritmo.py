@@ -246,10 +246,10 @@ def integrar_todo(viaje1, viaje2):
 #Imprime las instrucciones del viaje en metro
 def instrucciones(pasos):
 	while len(pasos) > 0:
-		print "De " + pasos[0]
-		print "Con direccion " + pasos[1]
-		print "Hasta " + pasos[2]
-		print "\n"
+		print("De " + pasos[0])
+		print("Con direccion " + pasos[1])
+		print("Hasta " + pasos[2])
+		print("\n")
 
 		if len(pasos) > 3:
 			pasos = pasos[2:]

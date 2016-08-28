@@ -68,4 +68,4 @@ def imprimir_minutos(t_seg):
 	if t_min[1] >= 30:
 		t_min[0] += 1
 
-	print "Tiempo aproximado: " + str(t_min[0]) + " minutos.\n"
+	print("Tiempo aproximado: " + str(t_min[0]) + " minutos.\n")

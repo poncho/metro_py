@@ -23,10 +23,10 @@ def main():
 	viaje = algoritmo.elegir_algoritmo(viaje)
 
 	if len(viaje.pasos) < 1:
-		print "Error: Ruta no encontrada"
+		print("Error: Ruta no encontrada")
 		sys.exit(0)
 	elif viaje.e1 == viaje.e2:
-		print "Es la misma estacion"
+		print("Es la misma estacion")
 		sys.exit(0)
 
 	tiempo.imprimir_minutos(viaje.time[opcion])
