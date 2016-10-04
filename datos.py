@@ -218,26 +218,26 @@ def obtener_linea(n):
 				['Ciudad Azteca', 61, None]]
 				
 	elif n == 12:
-		return [['Mixcoac', 0, [7]],
-				['Insurgentes Sur', 0, None],
-				['Hospital 20 de Noviembre', 0, None],
-				['Zapata', 0, [3]],
-				['Parque de los Venados', 0, None],
-				['Eje Central', 0, None],
-				['Ermita', 0, [2]],
-				['Mexicaltzingo', 0, None],
-				['Atlalilco', 0, [8]],
-				['Culhuacan', 0, None],
-				['San Andres Tomatlan', 0, None],
-				['Lomas Estrella', 0, None],
-				['Calle 11', 0, None],
-				['Periferico Oriente', 0, None],
-				['Tezonco', 0, None],
-				['Olivos', 0, None],
-				['Nopalera', 0, None],
-				['Zapotitlan', 0, None],
-				['Tlaltengo', 0, None],
-				['Tlahuac', 0, None]]
+		return [['Mixcoac', 50, [7]],
+				['Insurgentes Sur', 50, None],
+				['Hospital 20 de Noviembre', 50, None],
+				['Zapata', 50, [3]],
+				['Parque de los Venados', 50, None],
+				['Eje Central', 50, None],
+				['Ermita', 50, [2]],
+				['Mexicaltzingo', 50, None],
+				['Atlalilco', 50, [8]],
+				['Culhuacan', 50, None],
+				['San Andres Tomatlan', 50, None],
+				['Lomas Estrella', 50, None],
+				['Calle 11', 50, None],
+				['Periferico Oriente', 50, None],
+				['Tezonco', 50, None],
+				['Olivos', 50, None],
+				['Nopalera', 50, None],
+				['Zapotitlan', 50, None],
+				['Tlaltengo', 50, None],
+				['Tlahuac', 50, None]]
 		
 			
 def buscar_estacion(e):
