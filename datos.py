@@ -329,6 +329,7 @@ def buscar_estacion(e):
         'Azcapotzalco': [6],
         'Ferreria': [6],
         'Norte 45': [6],
+        'Vallejo': [6],
         'Lindavista': [6],
         'La Villa-Basilica': [6],
         'Aquiles Serdan': [7],
