@@ -320,7 +320,7 @@ def buscar_estacion(e):
 		'Valle Gomez': [5],
 		'Eduardo Molina': [5],
 		'Aragon': [5],
-		'Ocenia': [5, 11],
+		'Oceania': [5, 11],
 		'Terminal Aerea': [5],
 		'Hangares': [5],
 		'El Rosario': [6, 7],
